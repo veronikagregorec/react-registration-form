@@ -1,3 +1,13 @@
+## Description
+
+React registration form with Firebase.
+
+![](screenshots/form.png)
+
+![](screenshots/details.png)
+
+![](screenshots/modal.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
