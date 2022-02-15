@@ -1,4 +1,4 @@
-## Description
+# Description
 
 React registration form with Firebase.
 
