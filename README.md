@@ -1,6 +1,6 @@
 # React Registration Form 
 
-React registration form with Firebase.
+Responsive react registration form with Firebase. 
 
 ![](screenshots/form.png)
 
